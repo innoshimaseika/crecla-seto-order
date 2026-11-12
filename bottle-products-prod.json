@@ -39,8 +39,9 @@
         29,
         30
       ],
+      "labels": null,
+      "imageUrl": "https://raw.githubusercontent.com/innoshimaseika/crecla-seto-order/main/assets/bottles/1794480500631-a5afcadf.png",
       "published": true,
-      "imageUrl": "",
       "sortOrder": 1
     },
     {
@@ -75,8 +76,8 @@
         "18本（9箱）",
         "20本（10箱）"
       ],
+      "imageUrl": "https://raw.githubusercontent.com/innoshimaseika/crecla-seto-order/main/assets/bottles/1794480534253-0ee6fb28.png",
       "published": true,
-      "imageUrl": "",
       "sortOrder": 2
     },
     {
@@ -132,8 +133,8 @@
         "6袋（2箱）",
         "9袋（3箱）"
       ],
+      "imageUrl": "https://raw.githubusercontent.com/innoshimaseika/crecla-seto-order/main/assets/bottles/1794480627713-fb466037.jpg",
       "published": true,
-      "imageUrl": "",
       "sortOrder": 4
     },
     {
