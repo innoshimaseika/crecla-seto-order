@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": "6fc56cf6-f0f7-4083-810e-6cda0d4eb8c9",
+      "name": "淡路島たまねぎスープ",
+      "price": 500,
+      "description": "淡路島産たまねぎスープ 200g（約32杯分）\n\n淡路島産たまねぎの甘みと旨みがぎゅっと詰まった、コクと旨みが広がるやさしい味わいのスープ！\nお湯を注ぐだけで簡単に作れるので、忙しい朝やランチ、ちょっと小腹が空いたときにもぴったり！\nそのままスープとして楽しむのはもちろん、パスタやカレー、炒め物などの隠し味としても大活躍。いつもの料理にたまねぎの自然な甘みと風味をプラスできます。\n\n【商品のおすすめポイント】\n\n淡路島産たまねぎを使用した、甘みと旨みのある味わい",
+      "imageUrl": "https://raw.githubusercontent.com/innoshimaseika1950/cricla-seto-order/main/assets/products/1794451161578-267e100d.png",
+      "published": true,
+      "sortOrder": 1,
+      "stockLabel": "在庫あり"
+    }
+  ]
+}
