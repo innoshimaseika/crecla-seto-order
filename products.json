@@ -10,6 +10,17 @@
       "published": true,
       "sortOrder": 1,
       "stockLabel": "在庫あり"
+    },
+    {
+      "id": "79bb3387-f2af-4646-933a-a7d3c81cfc31",
+      "name": "ワンプッシュ真空ステンレスボトル450ml",
+      "price": 880,
+      "description": "【商品説明】\nワンプッシュで手軽に水分補給！\n\n片手で簡単に開けられる、便利な真空保冷温ボトルです。保冷・保温に対応しており、通勤・通学やお出かけなど、さまざまなシーンで活躍します。\n軽量・コンパクトで持ち運びにも便利です。",
+      "productInfo": "【商品情報】\n商品名：ワンプッシュ真空保冷温ボトル\n容量：450ml\nカラー：ホワイト＆ブラック\n機能：保冷・保温対応\nお手入れ：本体丸洗い可能（水中への放置不可）\n\n通常価格：2,000円（税込）\n特別価格：880円（税込）\n\n※数量限定商品のため、なくなり次第終了となります。",
+      "imageUrl": "https://raw.githubusercontent.com/innoshimaseika1950/cricla-seto-order/main/assets/products/1794474054632-11f2b3f5.jpg",
+      "published": true,
+      "sortOrder": 2,
+      "stockLabel": "在庫あり"
     }
   ]
 }
