@@ -21,6 +21,17 @@
       "published": true,
       "sortOrder": 2,
       "stockLabel": "在庫あり"
+    },
+    {
+      "id": "7a8401eb-35c9-4611-bcd4-cad44ef27c31",
+      "name": "バンブー 真空ステンレスボトル 340ml",
+      "price": 880,
+      "description": "【商品説明】\nシンプルでおしゃれなステンレスボトル！\n\n持ち運びに便利なハンドル付きで、外出先でも手軽に水分補給ができます。\n保冷・保温に対応し、毎日の通勤やお出かけにもぴったり。コンパクトな340mlサイズで、気軽に持ち歩けます。",
+      "productInfo": "【商品情報】\n商品名：バンブー真空ステンレスボトル\n容量：340ml\nカラー：ブラック&ホワイト\n機能：保冷・保温対応\nお手入れ：本体丸洗い可能（水中への放置不可）\n\n通常価格：1,880円（税込）\n特別価格：880円（税込）\n\n※数量限定商品のため、なくなり次第終了となります。",
+      "imageUrl": "https://raw.githubusercontent.com/innoshimaseika1950/cricla-seto-order/main/assets/products/1794474161785-e186a3dd.jpg",
+      "published": true,
+      "sortOrder": 3,
+      "stockLabel": "在庫あり"
     }
   ]
 }
