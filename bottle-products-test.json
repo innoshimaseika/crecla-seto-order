@@ -152,8 +152,9 @@
         4,
         5
       ],
+      "labels": null,
+      "imageUrl": "https://raw.githubusercontent.com/innoshimaseika/crecla-seto-order/main/assets/bottles/1794550482719-00f8dd7e.png",
       "published": true,
-      "imageUrl": "",
       "sortOrder": 5
     }
   ]
